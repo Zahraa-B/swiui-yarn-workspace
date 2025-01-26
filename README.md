@@ -63,4 +63,9 @@ I aim to configure NativeWind individually inside each package instead of global
 - Incorrect Configuration: The way NativeWind is configured could be the issue.
 - Nested Folder Configuration: Configuring NativeWind inside nested folders might be problematic, though configuring it in the root is not recommended.
 
+#### Resources:
+- [Install NativeWind in Expo Router](https://www.nativewind.dev/getting-started/expo-router)
+- [Learn about setting up Expo projects in a monorepo with Yarn v1 workspaces.](https://docs.expo.dev/guides/monorepos/)
+- [nohoist in Workspaces](https://classic.yarnpkg.com/blog/2018/02/15/nohoist/)
+
 Good luck! :)
