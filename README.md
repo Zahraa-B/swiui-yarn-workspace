@@ -18,6 +18,11 @@ This is a monorepo project where Yarn workspaces are used to set up the monorepo
    ` yarn start` or ` npx expo start`.
 5. Press `w` to open the project in your web browser. (faster than simulator)
 
+Desired outcome:
+
+<img width="300" alt="Screenshot 2025-01-26 at 11 32 59 PM" src="https://github.com/user-attachments/assets/3998948d-5edc-4246-bc70-946929ed3acb" />
+
+
 ## About the Core Package
 
 The `core` package (inside the `packages`) is a testing package that currently contains only one component: `Button.tsx`. Take a look at the `core` package to see the other files inside it.
